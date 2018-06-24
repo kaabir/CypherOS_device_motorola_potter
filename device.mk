@@ -127,9 +127,6 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/gps/etc/xtwifi.conf:system/vendor/etc/xtwifi.conf \
     $(LOCAL_PATH)/gps/etc/cacert_location.pem:system/vendor/etc/cacert_location.pem
 
-# LineageActions
-PRODUCT_PACKAGES += \
-    LineageActions
 
 # Display
 PRODUCT_PACKAGES += \
